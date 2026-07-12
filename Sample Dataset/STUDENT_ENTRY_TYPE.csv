@@ -1,0 +1,21 @@
+EntryTypeID,EntryTypeName
+1,Regular
+2,Lateral Entry
+3,Transfer
+4,Re-Admission
+5,Migrated
+6,Direct Second Year
+7,Distance to Regular
+8,Foreign Transfer
+9,Credit Transfer
+10,Re-Registered
+11,Detained Re-Entry
+12,Exchange Program
+13,Bridge Course Entry
+14,Improvement Batch
+15,Supplementary Entry
+16,Fresh Admission
+17,Inter-Institute Transfer
+18,Diploma Entry
+19,Open Entry
+20,Special Category Entry

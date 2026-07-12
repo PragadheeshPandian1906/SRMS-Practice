@@ -1,0 +1,21 @@
+ScholarshipID,ScholarshipName,Provider
+1,Merit Scholarship,State Government
+2,Post Matric Scholarship,Central Government
+3,First Graduate Scholarship,State Government
+4,Sports Scholarship,College Trust
+5,Minority Scholarship,Central Government
+6,Alumni Scholarship,Alumni Association
+7,Girl Child Scholarship,State Government
+8,Disability Scholarship,Central Government
+9,Economically Weaker Section Scholarship,State Government
+10,Research Talent Scholarship,College Trust
+11,National Talent Search Scholarship,NCERT
+12,Defence Ward Scholarship,Ministry of Defence
+13,Single Parent Scholarship,NGO Trust
+14,Corporate CSR Scholarship,Private Corporation
+15,Rural Talent Scholarship,State Government
+16,Fee Waiver Scholarship,College Management
+17,Cultural Excellence Scholarship,College Trust
+18,Ex-Serviceman Ward Scholarship,State Government
+19,Innovation Scholarship,AICTE
+20,Foreign Exchange Scholarship,British Council

@@ -1,0 +1,49 @@
+StudentID,AddressType,DoorNo,Street,Area,VillageTown,City,District,State,Country,Pincode
+1,Permanent,34,Randhawa Chowk,Ville,Bilaspur,Shahjahanpur,Karnataka,India,604508
+1,Communication,95,Yohannan Circle,Ville,Ballia,Mirzapur,Karnataka,India,610338
+2,Permanent,113,Devi Ganj,Ville,Nashik,Jamnagar,Telangana,India,619825
+2,Communication,168,Sami Street,Ville,Eluru,Dehri,Telangana,India,600512
+3,Permanent,171,Apte Road,Ville,Mau,Durg,Telangana,India,619620
+3,Communication,27,Dugar Marg,Ville,Firozabad,Guna,Kerala,India,617332
+4,Permanent,30,Misra Zila,Ville,Dindigul,Panvel,Tamil Nadu,India,636256
+5,Permanent,73,Acharya Circle,Ville,Surat,Mirzapur,Telangana,India,613803
+5,Communication,53,Khatri Road,Ville,Tezpur,Guwahati,Puducherry,India,641565
+6,Permanent,68,Biswas Chowk,Ville,Fatehpur,Bilaspur,Telangana,India,632016
+7,Permanent,14,Sampath Circle,Ville,Bijapur,Dindigul,Tamil Nadu,India,641568
+7,Communication,71,Varughese Chowk,Ville,Shahjahanpur,Rajkot,Tamil Nadu,India,600232
+8,Permanent,86,Bail Path,Ville,Chennai,Allahabad,Kerala,India,641753
+8,Communication,42,Bir Ganj,Ville,Madurai,Alwar,Puducherry,India,628956
+9,Permanent,142,Kala Chowk,Ville,Latur,Vellore,Puducherry,India,628028
+9,Communication,29,Chandra Ganj,Ville,Raichur,Bulandshahr,Tamil Nadu,India,609768
+10,Permanent,140,Bhagat Chowk,Ville,Sambhal,Moradabad,Tamil Nadu,India,624196
+10,Communication,38,Handa Ganj,Ville,Kolhapur,South Dumdum,Andhra Pradesh,India,608352
+11,Permanent,11,Shere Road,Ville,Mango,Dhanbad,Karnataka,India,623897
+11,Communication,11,Aurora Circle,Ville,Rourkela,Shivpuri,Karnataka,India,613767
+12,Permanent,175,Kala Chowk,Ville,Dehradun,Delhi,Kerala,India,606736
+12,Communication,144,Lanka Marg,Ville,Bhusawal,Bhatpara,Andhra Pradesh,India,640675
+13,Permanent,192,Minhas Ganj,Ville,Adoni,Satara,Kerala,India,615514
+13,Communication,46,Bedi Nagar,Ville,Howrah,Gaya,Andhra Pradesh,India,601624
+14,Permanent,46,Bir Zila,Ville,Jamshedpur,Adoni,Puducherry,India,621770
+14,Communication,106,Baral,Ville,Ballia,Bhilwara,Puducherry,India,616263
+15,Permanent,69,Murthy Ganj,Ville,Tenali,Dewas,Kerala,India,607084
+15,Communication,10,Mutti Chowk,Ville,Berhampore,Srinagar,Andhra Pradesh,India,614577
+16,Permanent,52,Kala Circle,Ville,Karnal,Sambalpur,Andhra Pradesh,India,622915
+16,Communication,59,Mane Path,Ville,Tinsukia,Pudukkottai,Kerala,India,601550
+17,Permanent,169,Anand Circle,Ville,Guntur,Bhiwandi,Kerala,India,626113
+17,Communication,18,Dugal Zila,Ville,Mahbubnagar,Tiruvottiyur,Karnataka,India,623012
+18,Permanent,165,Lalla Ganj,Ville,Faridabad,Bhusawal,Telangana,India,626193
+18,Communication,138,Basu Road,Ville,Bikaner,Nanded,Karnataka,India,601808
+19,Permanent,30,Sane Chowk,Ville,Aurangabad,Bongaigaon,Karnataka,India,611702
+19,Communication,68,Pingle Nagar,Ville,Warangal,Aizawl,Tamil Nadu,India,607104
+20,Permanent,153,Baral Path,Ville,Kulti,Raichur,Andhra Pradesh,India,622654
+20,Communication,81,Ray Circle,Ville,Ujjain,Haridwar,Andhra Pradesh,India,639728
+21,Permanent,131,Gola Nagar,Ville,Kulti,Kozhikode,Tamil Nadu,India,625244
+21,Communication,49,Raja Zila,Ville,Korba,Jaunpur,Karnataka,India,602908
+22,Permanent,182,Mody Path,Ville,Nagpur,Silchar,Andhra Pradesh,India,600110
+22,Communication,138,Mallick Path,Ville,Etawah,Jorhat,Puducherry,India,612912
+23,Permanent,94,Bala Path,Ville,Mangalore,Agra,Andhra Pradesh,India,604585
+23,Communication,85,Saraf Zila,Ville,Junagadh,Kharagpur,Telangana,India,620572
+24,Permanent,170,Gupta,Ville,Junagadh,Saharsa,Tamil Nadu,India,619681
+24,Communication,171,Hegde Circle,Ville,Coimbatore,Satara,Andhra Pradesh,India,621376
+25,Permanent,104,Mital Zila,Ville,Khammam,Sagar,Puducherry,India,619376
+25,Communication,50,Datta Circle,Ville,Nadiad,Tadepalligudem,Andhra Pradesh,India,624847

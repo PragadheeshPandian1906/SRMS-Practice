@@ -1,0 +1,26 @@
+StudentID,RegNo,Status,Name,Gender,DOB,MobileNo,DateOfJoining,PhotoPath,SignaturePath,EmailID,BloodGroup,IsHosteller,Nationality,BranchID,AdmissionTypeID,CommunityID,ReligionID,EntryTypeID
+1,7115009001,True,Dayita Bakshi,Other,2007-12-23,9339670711,2023-06-01,/photos/7115009001.jpg,/signatures/7115009001.png,dayita.1@college.edu.in,B+,True,Indian,9,19,14,2,1
+2,7115017002,True,Jason Kapoor,Male,2004-05-12,9702632297,2023-06-08,/photos/7115017002.jpg,/signatures/7115017002.png,jason.2@college.edu.in,B-,False,Indian,17,15,19,9,1
+3,7115009003,True,Charan Chahal,Male,2007-01-26,9331191390,2023-07-11,/photos/7115009003.jpg,/signatures/7115009003.png,charan.3@college.edu.in,AB-,True,Indian,9,13,4,12,12
+4,7115002004,False,Anamika Balan,Other,2004-02-02,9675770529,2023-07-26,/photos/7115002004.jpg,/signatures/7115002004.png,anamika.4@college.edu.in,A-,False,Indian,2,18,10,20,12
+5,7115003005,True,Kamala Tiwari,Other,2007-02-20,9810026086,2023-06-23,/photos/7115003005.jpg,/signatures/7115003005.png,kamala.5@college.edu.in,B-,False,Indian,3,8,4,13,9
+6,7115012006,True,Ira Saini,Female,2004-11-06,9324956459,2023-07-06,/photos/7115012006.jpg,/signatures/7115012006.png,ira.6@college.edu.in,AB+,True,Indian,12,18,8,6,15
+7,7115018007,True,Maya Ahuja,Female,2008-01-30,9835098955,2023-07-21,/photos/7115018007.jpg,/signatures/7115018007.png,maya.7@college.edu.in,AB-,True,Indian,18,2,11,13,9
+8,7115011008,True,Fariq Sami,Male,2005-07-26,9803771909,2023-06-19,/photos/7115011008.jpg,/signatures/7115011008.png,fariq.8@college.edu.in,O-,False,Foreign National,11,5,9,5,8
+9,7115019009,False,Garima Kale,Other,2009-04-09,9726563708,2023-07-24,/photos/7115019009.jpg,/signatures/7115019009.png,garima.9@college.edu.in,O+,False,Indian,19,5,17,16,3
+10,7115006010,False,Om Chaudry,Male,2004-01-31,9740389325,2023-06-05,/photos/7115006010.jpg,/signatures/7115006010.png,om.10@college.edu.in,A-,False,Nepali,6,20,15,17,9
+11,7115004011,True,Chasmum Parmer,Other,2008-08-11,9925276600,2023-06-22,/photos/7115004011.jpg,/signatures/7115004011.png,chasmum.11@college.edu.in,AB-,True,Indian,4,14,6,15,1
+12,7115006012,True,Libni Bassi,Other,2007-11-27,9771410971,2023-07-17,/photos/7115006012.jpg,/signatures/7115006012.png,libni.12@college.edu.in,AB+,True,Indian,6,12,6,18,17
+13,7115001013,True,David Radhakrishnan,Male,2003-12-31,9489747629,2023-07-16,/photos/7115001013.jpg,/signatures/7115001013.png,david.13@college.edu.in,AB+,True,Indian,1,8,19,3,3
+14,7115003014,True,Nandini Pathak,Other,2006-12-28,9237859287,2023-07-27,/photos/7115003014.jpg,/signatures/7115003014.png,nandini.14@college.edu.in,O-,True,Indian,3,17,20,14,7
+15,7115010015,False,Bhavya Bath,Other,2007-06-30,9821218382,2023-06-23,/photos/7115010015.jpg,/signatures/7115010015.png,bhavya.15@college.edu.in,AB-,False,Foreign National,10,4,8,8,3
+16,7115018016,True,Mohini Buch,Female,2008-08-28,9731832764,2023-06-19,/photos/7115018016.jpg,/signatures/7115018016.png,mohini.16@college.edu.in,B-,True,Indian,18,2,8,3,2
+17,7115008017,True,Daksha Rai,Female,2005-03-12,9818309417,2023-06-17,/photos/7115008017.jpg,/signatures/7115008017.png,daksha.17@college.edu.in,O-,True,Indian,8,19,19,16,8
+18,7115004018,True,Rajata Gaba,Female,2005-09-30,9807577342,2023-07-07,/photos/7115004018.jpg,/signatures/7115004018.png,rajata.18@college.edu.in,O+,False,Nepali,4,14,15,2,4
+19,7115011019,True,Henry Loke,Male,2007-09-27,9366992705,2023-07-24,/photos/7115011019.jpg,/signatures/7115011019.png,henry.19@college.edu.in,B-,True,Foreign National,11,5,14,6,9
+20,7115003020,False,Bimala Garg,Female,2006-09-24,9967607278,2023-06-28,/photos/7115003020.jpg,/signatures/7115003020.png,bimala.20@college.edu.in,A-,True,Indian,3,3,8,6,14
+21,7115013021,True,Krisha Gade,Female,2006-04-20,9276777762,2023-07-07,/photos/7115013021.jpg,/signatures/7115013021.png,krisha.21@college.edu.in,O+,True,Nepali,13,9,15,10,14
+22,7115007022,True,Lopa Kanda,Other,2007-08-20,9333754555,2023-07-05,/photos/7115007022.jpg,/signatures/7115007022.png,lopa.22@college.edu.in,A+,True,Sri Lankan,7,2,2,19,16
+23,7115017023,True,Baghyawati Karnik,Other,2008-06-16,9299528037,2023-06-02,/photos/7115017023.jpg,/signatures/7115017023.png,baghyawati.23@college.edu.in,A-,True,Indian,17,13,4,19,8
+24,7115003024,False,Nisha Rattan,Other,2005-02-17,9805849060,2023-06-20,/photos/7115003024.jpg,/signatures/7115003024.png,nisha.24@college.edu.in,AB-,False,Indian,3,11,8,9,13
+25,7115011025,True,Hitesh Murty,Male,2004-10-20,9110002396,2023-07-15,/photos/7115011025.jpg,/signatures/7115011025.png,hitesh.25@college.edu.in,O-,True,Indian,11,18,7,17,9

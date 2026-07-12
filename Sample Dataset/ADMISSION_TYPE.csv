@@ -1,0 +1,21 @@
+AdmissionTypeID,AdmissionTypeName
+1,Counselling
+2,Management Quota
+3,NRI Quota
+4,Lateral Entry
+5,Sports Quota
+6,Government Quota
+7,Minority Quota
+8,Merit Scholarship Admission
+9,Transfer Admission
+10,Foreign National Quota
+11,Defence Quota
+12,PWD Quota
+13,Single Girl Child Quota
+14,Institution Staff Quota
+15,Alumni Quota
+16,Sports Excellence Quota
+17,Rural Quota
+18,Kashmiri Migrant Quota
+19,Ex-Serviceman Quota
+20,Direct Second Year Entry
